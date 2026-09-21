@@ -171,11 +171,11 @@ The primary beneficiary of this boneyard draw was the **Republic of Korea Air Fo
 
 Although the ROKAF would show interest in upgrading their F-4s as well, it eventually purchased both the F-15 and F-16, before beginning development of an indigenous trainer and lightweight fighter-attack aircraft. The F-7EK continued to serve into the 1990s, until these new aircraft were ordered, delivered and able to fill entire squadrons.
 
-**Stop Gap for F-16 Delays: Greece, Turkey**
+**Stop Gap for F-16 Delays: Greece, Turkey (1984-1989)**
 
-In southern Europe, Washington utilized the AMARC inventory as strategic leverage. When Greece and Turkey engaged in bilateral tension in the Aegean, both nations sought modern fighters while negotiating for the F-16 Fighting Falcon (*Peace Onyx* in Turkey, *Peace Xenia* in Greece). The Pentagon released interim batches of 32 airframes to Turkey and 28 airframes to Greece (all designated **F-7E** generically) between 1984 and 1986, using the cheap, reliable delta interceptors as a stabilizing stopgap to bridge the multi-year production delays of the F-16 assembly lines.
+In southern Europe, Washington utilized the AMARC inventory as strategic leverage. When Greece and Turkey engaged in bilateral tension in the Aegean, both nations sought modern fighters while negotiating for the F-16 Fighting Falcon (*Peace Onyx* in Turkey, *Peace Xenia* in Greece). The Pentagon released interim batches of 32 F-7 airframes to Turkey and 28 F-7 airframes to Greece between 1984 and 1985 as cheap, reliable delta interceptors as a stabilizing stopgap to bridge the multi-year production delays of the F-16 assembly lines.  In addition to their existing J79 engine commonality with the F-4, these were the first 20x102mm twin M39 cannon configurations, ensuring not only NATO and F-4 ammunition compatibility, but also for the F-16, once it was delivered. No need to stock and load the 20x110mm USN, or use a 30mm British or French gun and their, separate supply chain.
 
-In addition to the J79 engine commonality with the F-4, these were the first 20x102mm twin M39 configurations, ensuring not only NATO and F-4 ammunition compatibility, but also for the F-16, once it was delivered. No need to stock and load the 20x110mm USN, or use a 30mm British or French gun and their supply chain.
+All 60 airframes across both deals were updated to the latest McDonnell Douglas **F/A-7C Advanced Skylancer** standard at a volume discount, with the US taxpayer investing in future resales of the units, once returned, with the new, updated OEM modernization.
 
 **McDonnell Douglas: "F/A-7C Advanced Skylancer"**
 
@@ -326,8 +326,8 @@ Equipped with twin 30 mm ADEN cannons, AIM-9M Sidewinders, AGM-65 Mavericks, and
 | **1978–1981** | **South Korea (ROKAF)** | F-7A/B | **F-7EK (ROKAF)** | Ex-USN stock (AMARC boneyard draw) | J79-GE-17 engine commonality with ROKAF F-4E; AN/APQ-94 radar overhaul; AIM-7F integration. | 64 |
 | **1978–1984** | **US Navy Reserve / TOPGUN** | F-7A/B | **F-7N** | Frontline USN carrier phaseouts | Radars removed; ACMI pod telemetry installed; APX-72 IFF; smokeless J79 combustors. | 110 |
 | **1979–1982** | **Singapore (RSAF)** | F-7A | **F-7S** | Ex-USN surplus stored at Davis-Monthan | Initial depot-level airframe service life extension (SLEP) by ST Aerospace; twin 30mm ADENs. | 36 |
-| **1984–1988** | **Greece (HAF)** | F-7B | **F-7C Advanced Skylancer** | US Foreign Military Sales (FMS stopgap) | Transferred as an interim Mach 2 interceptor pending *Peace Xenia* F-16 deliveries; AN/ALR-67 RWR. | 28 |
-| **1984–1988** | **Turkey (TuAF)** | F-7B | **F-7C Advanced Skylancer** | US Foreign Military Sales (MAP grant-aid) | Low-hour airframes provided as an interim interceptor pending *Peace Onyx* F-16 assembly. | 32 |
+| **1984–1985** | **Greece (HAF)** | F-7B | **F-7C Advanced Skylancer** | US Foreign Military Sales (FMS stopgap) | Transferred as an interim Mach 2 interceptor pending *Peace Xenia* F-16 deliveries; AN/ALR-67 RWR. All returned by 1989. | 28 |
+| **1984–1985** | **Turkey (TuAF)** | F-7B | **F-7C Advanced Skylancer** | US Foreign Military Sales (MAP grant-aid) | Low-hour airframes provided as an interim interceptor pending *Peace Onyx* F-16 assembly All returned by 1989. | 32 |
 | **1988–1992** | **Singapore (RSAF)** | F-7S | **F-7SU Super Skylancer II** | Domestic ST Aerospace upgrade program | **Re-engined with GE F404-GE-402 turbofan**; glass cockpit HUD/MFD; FIAR Grifo 7 pulse-Doppler radar. | 34 |
 | **1994–2002** | **US Navy Adversary (TOPGUN/NSAWC)** | F-7N | **F-7N+** | Reactivated from AMARC storage | Brought out of storage to replace grounded, cracked F-16Ns; GPS navigation, updated HUD, ACMI pods. | 22 |
 
