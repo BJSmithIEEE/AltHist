@@ -15,7 +15,7 @@ To further appeal to land-only operators, Douglas offered a generic **F5D-2E (Eu
 
 ## Operators: CATOBAR
 
-Although land-based exports were the focus and priority, Douglas still had its greatest success with eager, naval partners across the pond.
+Although land-based exports were the focus and priority, Douglas still had its greatest success with eager, naval partners across the pond in its original [Catapult-Assisted Take-Off, Barrier Arrested Recovery (CATOBAR)](https://en.wikipedia.org/wiki/CATOBAR) configuration.
 
 **Blue-Water Ally: The Royal Navy’s F-7K (1962–1976)**
 
