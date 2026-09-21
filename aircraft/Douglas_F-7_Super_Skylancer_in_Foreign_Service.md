@@ -49,7 +49,7 @@ Starting in 1958 and until the merger with McDonnell in 1967, Douglas pitched th
 
 **The Middle Eastern Crucible: Israel and the J79 Delta (1967–1979)**
 
-The geopolitical earthquake of the 1967 Six-Day War radically reshaped Douglas's Middle Eastern export prospects. When French President Charles de Gaulle imposed a total arms embargo on Israel—halting the delivery of 50 prepaid Dassault Mirage 5J interceptors—the Israeli Air Force (*Heyl Ha'Avir*) was left with an aging fighter force and a looming quantitative deficit against Soviet-supplied Egyptian and Syrian MiG-21s.
+The geopolitical earthquake of the 1967 Six-Day War radically reshaped Douglas' Middle Eastern export prospects. When French President Charles de Gaulle imposed a total arms embargo on Israel—halting the delivery of 50 prepaid Dassault Mirage 5J interceptors—the Israeli Air Force (*Heyl Ha'Avir*) was left with an aging fighter force and a looming quantitative deficit against Soviet-supplied Egyptian and Syrian MiG-21s.
 
 > In the real, historical timeline, this embargo forced Israel into an elaborate industrial espionage campaign to build the Nesher and spend millions experimentally marrying the General Electric J79 engine to the Mirage airframe to create the IAI Kfir.
 
@@ -59,11 +59,11 @@ Entering frontline service in 1968, the F-7I played a decisive combat role durin
 
 ## Failed Bids
 
-Achieving a landing roll under 2,500 feet, safe highway-strip dispersal, and unrefueled endurance that left competing American and European platforms far behind, NATO and other, operational test pilots consistently graded the Douglas **F-7E** as the most forgiving and lethal combat aircraft evaluated. Douglas also offered to retrofitted the tailcone with a heavy-duty braking parachute, for short, rain-slicked NATO runways and dispersed highway landing strips where even shorter was required. Yet, country by country, technical merit was systematically bypassed by sovereign industrial mandates and unprecedented corporate corruption.
+Achieving a landing roll as short as under 2,500 feet, allowing safe highway-strip dispersal, and unrefueled endurance that left competing American and European platforms far behind, NATO and other, operational test pilots consistently graded the Super Skylancer as the most forgiving and lethal combat aircraft evaluated. Douglas also offered to retrofitted the tailcone with a heavy-duty braking parachute, to ensure all short, rain-slicked NATO runways and dispersed highway landing strips could be tamed. Yet, country by country, technical merit was systematically bypassed by sovereign industrial mandates and unprecedented corporate corruption.
 
 **The European Showdown and Lockheed Bribery Scandal (1958–1961)**
 
-The Douglas F-7E land-based Super Skylancer was formally evaluated in West Germany, Switzerland, Japan and others, against the following competitors.
+The Douglas export, land-based Super Skylancer was formally evaluated in West Germany, Switzerland, Japan and others, against the following competitors.
 
 * Lockheed: Pitching the heavily modified, all-weather F-104G Starfighter
 
@@ -73,9 +73,7 @@ The Douglas F-7E land-based Super Skylancer was formally evaluated in West Germa
 
 * English Electric: Offering the Lightning
 
-Operational test pilots—most notably the *Luftwaffe* evaluation team led by WWII aces Günther Rall and Johannes Steinhoff, alongside Swiss Alpine evaluation cadres—praised the Douglas delta. The F-7E offered double the internal fuel capacity of the Super Tiger and avoided the lethal, high-speed approach regimes and pitch-up tendencies of the Starfighter. However, the aircraft collided directly with the Lockheed overseas bribery network. Slush funds funneled to West German Defense Minister Franz Josef Strauss and Prince Bernhard of the Netherlands locked the F-104 into NATO consortium production, while Gaullist industrial policy legally mandated that the French Air Force procure Marcel Dassault’s Mirage III.
-
-Despite unanimous technical praise from military test cadres, the new-build **F-7E**, then **F5D-2E**, was completely shut out of continental European land-based air forces.
+Operational test pilots—most notably the *Luftwaffe* evaluation team led by WWII aces Günther Rall and Johannes Steinhoff, alongside Swiss Alpine evaluation cadres—praised the Douglas delta. The Super Skylancer offered double the internal fuel capacity of the Super Tiger and avoided the lethal, high-speed approach regimes and pitch-up tendencies of the Starfighter. However, the aircraft collided directly with the Lockheed overseas bribery network. Gaullist industrial policy legally mandated that the French Air Force procure Marcel Dassault’s Mirage III. The new-build **F-7E**, then **F5D-2E**, was completely shut out of continental European land-based air forces.
 
 **West Germany (*Luftwaffe*)**
 
@@ -119,17 +117,17 @@ In defense journals and parliamentary post-mortems throughout the late 1960s, mi
 
 ## End of Production
 
-Despite combat success in the Middle East, the F-7 remained largely locked out of broad international adoption throughout the 1970s due to institutional gatekeeping inside the Pentagon. The new McDonnell-Douglas born of the late 1960s, had completely different priorities and focus for the 1970s.
+Despite combat success in the Middle East, the F-7 remained largely locked out of broad international adoption throughout the 1970s due to institutional gatekeeping inside the Pentagon. The new McDonnell-Douglas born of the late 1960s had also adopted completely different priorities and foci for the 1970s from its smaller and nimble is better, Douglas-Heinemann roots.
 
 **The 1970s Export Lockout: USAF MAP/MAAG Politics**
 
-Despite combat success in the Middle East, the F-7 remained largely locked out of broad international adoption throughout the 1970s due to institutional gatekeeping inside the Pentagon. The Military Assistance Program (MAP) was administered overseas by Military Assistance Advisory Groups (MAAG), which were heavily staffed and directed by US Air Force leadership. The Air Force establishment viewed the F-7 strictly as a "Navy airplane" and refused to establish overseas technical training pipelines or spare-parts depots for a Douglas naval fighter.
+The Military Assistance Program (MAP) was administered overseas by Military Assistance Advisory Groups (MAAG), which were heavily staffed and directed by US Air Force leadership. The Air Force establishment viewed the F-7 strictly as a "Navy airplane" and refused to establish overseas technical training pipelines or spare-parts depots for a Douglas naval fighter.
 
 Under the USAF-dominated MAP catalog:
 
-* Nations requiring an advanced, heavy interceptor were pushed toward the **Lockheed F-104G** (surplus consortium stocks).
-* Developing nations seeking an austere, low-cost daylight fighter were directed to the **Northrop F-5A/E Freedom Fighter / Tiger II**, a platform the Air Force directly managed and sponsored under MAP grant-aid.
-* Consequently, traditional US allies like Norway, Denmark, Spain, Greece, and Turkey were funneled into F-104 and F-5 contracts, while Douglas’s de-navalized export pitches were barred from the official grant lists.
+* Nations requiring an advanced, heavy interceptor were pushed toward the **Lockheed F-104G** (surplus consortium stocks), then the F-16 or, if they could afford it, F-15 by the mid to late 1970s.
+* Developing nations seeking an austere, low-cost daylight fighter were directed to the **Northrop F-5A Freedom Fighter** and then **F-5E / Tiger II** by the early 1970s, a platform the Air Force directly managed and sponsored under MAP grant-aid.
+* Consequently, traditional US allies like Norway, Denmark, Spain, Greece, and Turkey were funneled into F-104 and F-5 contracts, then F-16, while Douglas’s de-navalized export pitches were barred from the official grant lists.
 
 **The Carter Directive: Republic of China Air Force (ROCAF)**
 
@@ -137,7 +135,7 @@ This bureaucratic wall was reinforced in 1977 with the inauguration of President
 
 In Taiwan, the Republic of China Air Force (ROCAF) actively sought to purchase the F-7 to counter mainland Chinese MiG-19s and MiG-21s. While a single batch of 48 surplus US Navy airframes was pushed through under the Ford administration in late 1976 (designated **F-7EC**), the Carter administration slammed the door on subsequent follow-up tranches, delaying approval of any further orders by the ROCAF. Eventually this was extended to even requests and any inquiries by 1978. The normalization of diplomatic relations with the People's Republic of China in 1979 and the 1982 US–PRC Joint Communiqué halted all further F-7 transfers to Taipei, compelling Taiwan to direct its engineering base toward what would eventually become the indigenous AIDC F-CK-1 Ching-kuo.
 
-This would continue by the late 1970s against anything that threatened F-16 export sales, even aircraft the USAF was required by law to support the sales of. This was to increase the F-16 production volume and resulting economies of scale, which now plauging Northrop as well, after the F-5G (later F-20) sale to the ROCAF was blocked.
+This would continue by the late 1970s against anything that threatened F-16 export sales, even aircraft the USAF was required by law to support the sales of. This was to increase the F-16 production volume and resulting economies of scale, which now plagued Northrop as well, after the F-5G (later F-20) sale to the ROCAF was blocked.
 
 **McDonnell-Douglas: F-15 platform-only, USAF-first**
 
@@ -201,11 +199,11 @@ Operating independently, Israel Aerospace Industries and Elbit leveraged their e
 
 The competition between MDC and IAI provided operators with upgrade paths that rivaled the combat capabilities of early-block F-16s and Mirage 2000s at a fraction of procurement costs, sustaining the operational relevance of the airframe into the post-Cold War era.
 
-**The Ultimate Re-Engine: Singapore’s F-7S (1988–2012)**
+**The Ultimate Re-Engine: Singapore’s F-7SU (1988–2012)**
 
 The most radical modernization of the Super Skylancer was executed by the Republic of Singapore Air Force (RSAF) and Singapore Technologies Aerospace (ST Aero). In 1979, Singapore acquired 36 surplus US Navy F-7As from AMARC to reinforce its fighter force guarding the vital Strait of Malacca. While the airframes were structurally sound, the 1950s-era General Electric J79 engine was heavy, maintenance-intensive, and prone to high specific fuel consumption.
 
-Less than a decade later, maturing Singapore commissioned its state owned ST Aero to launch an audacious, deep modernization of its existing aircraft in 1988 before buying any new aircraft: the **A-4SU Super Skyhawk** and the **F-7SU Super Skylancer II**. The core of both programs were replacing the J79 with an afterburning **General Electric F404-GE-402** turbofan, the powerplant developed for late-model export F/A-18 Hornets.
+Less than a decade later, maturing Singapore commissioned its state owned ST Aero to launch an audacious, deep modernization of its existing aircraft in 1988 before buying any new aircraft: the **A-4SU Super Skyhawk** and the **F-7SU Super Skylancer II**. The core of both programs were replacing turbojets with a **General Electric F404-GE-402** turbofan, the powerplant developed for late-model export F/A-18 Hornets. The F-7SU would receive an augmented unit, while the A-4SU would lack the afterburner.
 
 | Parameter | J79-GE-8 (Legacy F-7A) | General Electric F404-GE-402 | Performance Differential |
 |---|---|---|---|
@@ -339,7 +337,7 @@ Equipped with twin 30 mm ADEN cannons, AIM-9M Sidewinders, AGM-65 Mavericks, and
 
 | Strategic & Commercial Parameter | Real-World History | Alternate F-7 Export Timeline |
 |---|---|---|
-| **European "Deal of the Century" (1959–1960)** | Lockheed secured multi-nation production contracts for the F-104G across West Germany, the Netherlands, Belgium, and Italy via aggressive industrial offsets and covert bribery channels. | Douglas actively pitched the de-navalized F-7E; despite superior field evaluations, lower landing speeds, and pilot consensus (Steinhoff/Rall), Douglas's refusal to pay bribes and Lockheed's slush-fund operations preserved historical reality—the F-104G won, precipitating the catastrophic Starfighter-Krise. |
+| **European "Deal of the Century" (1959–1960)** | Lockheed secured multi-nation production contracts for the F-104G across West Germany, the Netherlands, Belgium, and Italy via aggressive industrial offsets and covert bribery channels. | Douglas actively pitched the de-navalized F-7E; despite superior field evaluations, lower landing speeds, and pilot consensus (Steinhoff/Rall), Douglas' refusal to pay bribes and Lockheed's slush-fund operations preserved historical reality—the F-104G won, precipitating the catastrophic Starfighter-Krise. |
 | **Carrier Fleet Air Defense (UK & France)** | Royal Navy relied on subsonic Sea Vixens and Phantom FG.1s on large hulls; French *Aéronavale* operated the unforgiving F-8E(FN) Crusader with elevated ramp-strike accident rates on *Clemenceau* and *Foch*. | British Fleet Air Arm deployed 84 **F-7Ks** and France deployed 42 **F-7Fs** across light/medium carriers; blown flaps and 126-kt approach speeds slashed deck attrition; gave both navies agile, Mach 2 fleet defense through the late 1970s; for the French, to the end of the 1990s. |
 | **Israeli Fighter Procurement (1967–1971)** | 1967 French arms embargo on the Mirage 5J forced Israel to smuggle blueprints to build the indigenous **IAI Nesher**, followed by grafting the GE J79 into the Mirage airframe to create the **IAI Kfir**. | The US provided 60 new-build **F-7Is** in 1968 to backfill the embargoed Mirage 5; IAF secured an optimized J79 delta straight from the Douglas line; bypassed the need to fund or tool the interim Nesher and Kfir industrial lines entirely. |
 | **Middle East & South American Re-Exports (The Mirage V / Dagger Nexus)** | Israel sold surplus Neshers to Argentina as the **Dagger** (flying extensively in the 1982 Falklands War); exported Kfirs to Colombia, Ecuador, and Sri Lanka. | With no Nesher/Kfir surplus to liquidate, Argentina remained reliant on legacy Mirage IIIEAs and A-4Ps; IAI’s proposed export of modernized J79-powered "Skylancer 2000s" to Buenos Aires in 1981 was vetoed by the US State Department, altering Falklands air-defense dynamics. |
