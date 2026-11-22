@@ -123,8 +123,6 @@ To dismantle this barrier, Section 11(f)—informally dubbed the **"Aggressor Cl
 * To satisfy the foreign requirement for active U.S. military service, the armed services were authorized and directed to procure a tan small-batch operational evaluation quantities of certified Tier-2 airframes to fulfill domestic specialized mission requirements—specifically tactical adversary simulation, [Aggressor squadron](https://en.wikipedia.org/wiki/Aggressor_squadron) Dissimilar Air Combat Training (DACT), and low-cost forward air control.
 * These domestic military buys, even if limited in total to a wing of few quadrons of certified Tier-2 airframes, officially placed the aircraft into the active DoD inventory, assigning it a standard military "Mission-Design-Series" (MDS) designation, unlocking the worldwide FMS supply clearinghouse, and guaranteeing thirty years of depot-level parts support for foreign purchasers.
 
-Here is the raw Markdown code block for **Implementation and political dynamics (1976–1977)**:
-
 
 ## Implementation and political dynamics (1976–1977)
 
@@ -265,9 +263,6 @@ Military historians and defense analysts evaluate the two-decade tenure of Direc
 * **The Cost of Government Market Structuring:** Conversely, critics argue that the directive artificially fragmented U.S. industrial capacity, prolonged the service lives of aging platforms like the A-7 through expensive conversions, and temporarily delayed the natural post-Cold War market transition toward multi-role fifth-generation interoperability.
 
 
-Here is the raw Markdown code block for the final section, with the real-world aircraft articles nested directly under their respective alternate history counterparts in the **See also** list:
-
-
 ## Historical reality versus alternate history
 
 The regulatory intervention represented by **DSAA Directive 5105.38-M (Supplement 4)** serves as a pivotal divergence point in late-20th-century military aviation history. In actual history, the Department of Defense never codified an administrative barrier against subsidizing frontline tactical exports, nor did it establish a statutory Two-Tier stratification with mandatory domestic aggressor buys. Analyzing the historical reality against the counterfactual framework illustrates how regulatory and administrative choices dictated the shape of modern aerospace development.
@@ -276,21 +271,33 @@ The regulatory intervention represented by **DSAA Directive 5105.38-M (Supplemen
 
 In real-world history, the Department of Defense aggressively prioritized foreign sales of the [General Dynamics F-16 Fighting Falcon](https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon) to lower unit acquisition costs for the United States Air Force. Despite extensive corporate investment by [Northrop Corporation](https://en.wikipedia.org/wiki/Northrop_Corporation) in the commercially developed F-5G (later designated the [F-20 Tigershark](https://en.wikipedia.org/wiki/Northrop_F-20_Tigershark)), the Department of Defense refused to procure the aircraft for domestic service. Without an active U.S. military inventory designation or dedicated logistics clearinghouses, foreign air forces deemed the F-20 too risky to adopt, leading to the program's cancellation in late 1986 after only three prototypes were constructed.
 
-Under the alternate framework created by Directive 5105.38-M, the codification of mandatory R&D cost-recoupment surcharges and the domestic aggressor validation clause dismantled the Air Force's informal export monopoly. This policy shift fostered an economically sustainable multi-contractor tactical aviation market through the 1980s and 1990s.
+Under the alternate framework created by Directive 5105.38-M, the codification of mandatory R&D cost-recoupment surcharges and the domestic aggressor validation clause dismantled the Air Force's informal export monopoly. This policy shift fostered an economically sustainable multi-contractor tactical aviation market through the 1980s and early 1990s.
 
-The structural divergences between the historical baseline and the counterfactual reality are summarized below:
+#### Domestic policy, procurement, and industrial base
 
-| Feature / Program | Historical Reality (Actual World) | Alternate History (DSAA 5105.38-M Framework) |
+| Area / Program | Historical Reality (Actual World) | Alternate History (DSAA 5105.38-M Framework) |
 | :--- | :--- | :--- |
-| **DSAA Export Policy** | Discretionary FMS pricing; R&D recoupment fees routinely waived or absorbed to lower international F-16 flyaway costs. | Mandatory, audited pro-rata R&D recoupment surcharges under AECA; hidden subsidies outlawed. |
-| **Allied Affordability Oversight** | Informal political reviews; allied nations frequently acquired advanced fighters beyond their long-term maintenance capacity. | Statutory 20-year Total Cost of Ownership (TCO) audits; operating costs capped at 22% of national defense budgets. |
-| **Export Stratification** | No formal tiers; Carter PD-13 attempted broad restrictions, later dismantled by the Reagan administration in 1981. | Formal **Tier-1** (Deep Strike) and **Tier-2** (Point Defense / Austere) classification permanently codified in the SAMM. |
-| **Domestic Inventory Rule** | Unwritten USAF policy; refusal to buy the F-20 Tigershark for USAF squadrons doomed foreign sales confidence. | Codified **Aggressor Clause**; USAF mandated to acquire 72 airframes (F-19A/B) for adversary training. |
-| **Engine Logistics Architecture** | USAF committed entirely to the P&W F100; single-engine F404 export concepts rejected due to isolated logistics overhead. | **Navy F404 Logistics Bridge**; USAF F-19 aggressor fleet piggybacked directly on U.S. Navy F/A-18 depot infrastructure. |
-| **Northrop Light Fighter Line** | F-20 Tigershark canceled in November 1986 with zero customer orders; Hawthorne assembly lines phased out. | **Northrop F-19 Tigershark** entered high-rate production; over 500 airframes delivered globally through 1992. |
-| **General Dynamics F-16XL / SCAMP** | F-16XL lost 1984 Dual-Role Fighter competition to F-15E; prototypes relegated to NASA laminar flow research. | **General Dynamics F-16E Freedom Falcon** developed for export; license-built in Japan and adopted by premier strike allies. |
-| **LTV Attack Aircraft Fleet** | A-7 Corsair II retired without major re-engining; YA-7F program canceled after two prototypes in 1990. | **LTV A-7F Corsair Strikefighter** entered depot remanufacturing; over 100 airframes modernized for Greece, Portugal, and Thailand. |
-| **Industrial Base Posture** | Steep consolidation in the 1990s; commercial export fighter development permanently extinguished in the United States. | Preserved multi-tier competitive industrial base through the 1980s until post-Cold War consolidation and the JSF program. |
+| **FMS Pricing & R&D Recoupment** | Executive discretion; non-recurring R&D recoupment fees routinely waived or absorbed to artificially lower F-16 export flyaway costs. | Mandatory, audited pro-rata R&D recoupment surcharges under AECA §21(e); subsidized export dumping outlawed. |
+| **Statutory Export Stratification** | No permanent tiers; Carter PD-13 attempted sweeping export ceilings before being dismantled by the Reagan administration in 1981. | Permanent, performance-based stratification: **Tier-1** (Deep Strike / Multi-Role) vs. **Tier-2** (Point Defense / Austere Air Superiority). |
+| **Domestic Inventory Precondition** | Unwritten service policy; USAF refusal to procure the F-20 Tigershark signaled lack of confidence to prospective foreign buyers. | Codified **Aggressor Clause**; USAF mandated to procure **72 operational airframes** (F-19A/B) for active DACT adversary service, with the USN operating half. |
+| **Inter-Service Engine Logistics** | USAF committed exclusively to the P&W F100; single-engine F404 export fighters rejected as isolated logistical orphans. | **Navy F404 Logistics Bridge**; USAF F-19 aggressor fleet piggybacked directly onto U.S. Navy F/A-18 depot infrastructure. |
+| **Northrop Light Fighter Program** | F-20 Tigershark canceled in November 1986 after three prototypes and $1.2B in private losses; Hawthorne assembly lines phased out. | **Northrop F-19 Tigershark** entered volume production; **over 500 airframes** delivered (under 100 domestic, over 400 international) through 1992. |
+| **General Dynamics F-16XL / SCAMP** | Lost the 1984 Dual-Role Fighter (ETF) competition to the F-15E; both prototypes relegated to NASA laminar flow research. | Pivoted into the **F-16E Freedom Falcon**; cranked-arrow wing evolved for high-end strike export allies to survive the ETF loss. |
+| **LTV Attack Aviation (A-7 Corsair II)** | A-7 retired without major re-engining; the supersonic YA-7F upgrade was canceled in 1990 after just two prototypes. | **LTV A-7F Corsair Strikefighter** entered depot remanufacturing; **140+ airframes** modernized via low-cost maintenance kits. |
+| **Aero-Engine Industrial Competition** | P&W held a near-monopoly on fighter engines until the mid-1980s Alternate Fighter Engine (AFE) competition. | High-volume F-19 production expanded GE F404 volume early, accelerating GE's market ascent and the Great Engine War. |
+| **1990s Defense Consolidation** | Waves of mergers catalyzed by the "Last Supper"; Northrop was left financially battered by the F-20 write-off before merging with Grumman. | **Consolidation still occurred by 1997** due to the post-Cold War drawdown; however, Northrop entered the Grumman merger in a position of robust cash reserves and manufacturing strength. |
+
+#### Foreign fleet adoption, maintenance, and operational outcomes
+
+| Area / Country | Historical Reality (Actual World) | Alternate History (DSAA 5105.38-M Framework) |
+| :--- | :--- | :--- |
+| **Allied Affordability & Fiscal Vetting** | Informal political reviews; developing nations routinely acquired front-line fighters beyond their long-term operating budgets. | Statutory **20-Year Lifecycle Affordability Audits**; annual fleet O&M legally capped at 22% of national defense operating budgets. |
+| **Maintenance Burden (MMH/FH)** | High maintenance overhead; early F-16s required **19–25 MMH/FH** and climate-controlled automated test equipment (ATE) cleanrooms. | Tier-2 ceiling enforced; F-19 required under **8–10 MMH/FH**, serviceable in austere field conditions with standard ground tools. |
+| **Fleet Availability (Mission-Capable Rate)** | **52%–62% mission-capable rates** for mid-tier F-16 operators due to F100 engine teething, depot bottlenecks, and parts shortages. | **78%–84% sustained mission-capable rates** across Tier-2 fleets; audited spare-parts escrows prevented "hangar queens." |
+| **Taiwan (ROCAF / AIDC)** | U.S. denied F-16 and F-20 sales post-1982 Communiqué; Taiwan forced to develop the indigenous [AIDC F-CK-1 Ching-kuo](https://en.wikipedia.org/wiki/AIDC_F-CK-1_Ching-kuo). | **Outcome unchanged:** Direct F-19 exports frozen after 1979 diplomatic break; Taiwan still had to develop the F-CK-1, aided by covert American consulting. |
+| **Japan (JASDF / FS-X)** | Contentious U.S.–Japan trade battle yielding the Mitsubishi F-2 (a modified baseline F-16 Block 40) at extreme per-unit costs. | Japan adopted the **F-16EJ**; the 1983 bilateral technology pact allowed MHI to manufacture co-cured composite wings for worldwide F-16E production. |
+| **Greece and Turkey (Aegean Balance)** | Greece acquired F-16s and Mirage 2000s; Turkey built massive TAI F-16 co-production lines, creating an expensive regional arms race. | Turkey fielded a High-Low mix (F-19 for Aegean QRA alert, F-16E for deep strike); Greece modernized its A-7s to the **A-7F Strikefighter** and bought F-19s, severely curbing early Mirage 2000 buys. |
+| **European Competitor Squeeze** | Dassault dominated mid-tier markets with the Mirage F1 and sold over 600 Mirage 2000s across the Middle East, Asia, and Europe. | French exports heavily compressed; Mirage F1 undercut by the F-19, while the Mirage 2000 was squeezed between the F-19, A-7F, and F-16E. |
 
 ### Chronological milestones of the alternate timeline
 
@@ -328,5 +335,4 @@ The development, enforcement, and eventual sunset of the regulatory framework fo
 6. Aronstein, David C., and Piccirillo, Albert C. (1996). *The Lightweight Fighter Program: A Successful Approach to Acquisition*. Reston, VA: American Institute of Aeronautics and Astronautics.
 7. Jenkins, Dennis R. (2000). *F/A-18 Hornet: A Navy Success Story*. New York: McGraw-Hill.
 8. Defense Security Cooperation Agency. (1996). *Administrative Notice: Rescission of Supplement 4 to DoD 5105.38-M and Harmonization of International Tactical Aircraft Programs* (DSCA Policy Memo 96-14).
-
 
