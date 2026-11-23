@@ -235,7 +235,7 @@ As the [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air
 
 This flooded market severely undermined the economic viability of dedicated Tier-2 production. Allied nations that previously could not afford new-build Tier-1 fighters could now acquire second-hand F-16s or Russian fourth-generation platforms for less than the flyaway cost of a new-build Tier-2 aircraft, precipitating the closure of the F-19 line in Hawthorne in 1992 after 512 production airframes.
 
-### Aerospace consolidation: The "Last Supper"
+## Aerospace consolidation: The "Last Supper"
 The regulatory environment fostered by Directive 5105.38-M had preserved a multi-contractor tactical aviation base throughout the late 1970s and 1980s, sustaining vibrant design bureaus and production facilities at Northrop, General Dynamics, McDonnell Douglas, and LTV. However, the post-Cold War procurement drought made this dispersed industrial posture unsustainable.
 
 In 1993, Secretary of Defense [Les Aspin](https://en.wikipedia.org/wiki/Les_Aspin) and Deputy Secretary [William J. Perry](https://en.wikipedia.org/wiki/William_J._Perry) convened a Pentagon dinner with defense industry executives colloquially known as the "Last Supper." The Department of Defense explicitly warned industry leaders that future budgets could support only a fraction of existing prime contractors, urging immediate corporate consolidation:
@@ -262,18 +262,55 @@ Military historians and defense analysts evaluate the two-decade tenure of Direc
 * **Allied Fleet Readiness:** Independent audits conducted in the early 2000s confirmed that allied air forces operating under the directive's 20-year lifecycle mandate maintained significantly higher mission-capable rates (averaging over 78%) compared to developing nations that acquired complex, uncertified front-line fighters outside the U.S. FMS framework.
 * **The Cost of Government Market Structuring:** Conversely, critics argue that the directive artificially fragmented U.S. industrial capacity, prolonged the service lives of aging platforms like the A-7 through expensive conversions, and temporarily delayed the natural post-Cold War market transition toward multi-role fifth-generation interoperability.
 
+## Chronological milestones
+The development, enforcement, and eventual sunset of the regulatory framework followed a distinct 20-year legislative and operational arc:
+
+| Date | Milestone / Event | Primary Stakeholders | Strategic Impact |
+| :--- | :--- | :--- | :--- |
+| **May 1976** | GAO Investigation Ordered | Senate Armed Services Committee, GAO | Initiated formal audit into DSAA F-16 fee waiver irregularities under AECA Section 21(e). |
+| **August 1976** | Release of GAO Report B-169832 | Comptroller General Elmer B. Staats | Confirmed illegal R&D fee absorption and economic fragility of foreign F-16 purchasers. |
+| **September 1976** | The Clements Compromise | Deputy SecDef William P. Clements Jr. | Closed-door mediation balancing Air Force autonomy, contractor equity, and congressional mandates. |
+| **October 18, 1976** | Promulgation of Directive 5105.38-M | Department of Defense, DSAA | Formally enacted Two-Tier FMS regulations and the domestic Aggressor Clause into the SAMM. |
+| **February 14, 1977** | F-19A/B MDS Designation Assigned | Armed Forces Designation Committee | Replaced "F-5G" designation; USAF contracted for 72 airframes supported by Navy F404 depots. |
+| **May 1977** | Carter PD-13 Conventional Arms Policy | National Security Council, State Dept. | F-19 protected from export bans due to active USAF inventory status; Tier-2 became Carter's preferred export class. |
+| **February 1978** | ROKAF Co-Production Signed | Republic of Korea, Korean Air Lines | Established KAL *Jegong-II* assembly line at Pusan, anchoring Pacific F-19 production. |
+| **February 1984** | USAF Enhanced Tactical Fighter Award | Tactical Air Command, McDonnell Douglas | USAF selected F-15E; General Dynamics pivoted the cranked-arrow wing into the export F-16E Freedom Falcon. |
+| **November 1996** | Administrative Rescission | DSCA, Department of Defense | SAMM Revision 96-1 formally rescinded Directive 5105.38-M, clearing the path for the Joint Strike Fighter program. |
+
+## See also
+* [Northrop F-19 Tigershark](https://github.com/BJSmithIEEE/AltHist/blob/main/aircraft/Northrop_F-19_Tigershark.md)
+  * [Northrop F-20 Tigershark](https://en.wikipedia.org/wiki/Northrop_F-20_Tigershark) (Historical baseline)
+* [General Dynamics F-16E Freedom Falcon](https://github.com/BJSmithIEEE/AltHist/blob/main/aircraft/General_Dynamics_F-16E_Freedom_Falcon.md)
+  * [General Dynamics F-16XL](https://en.wikipedia.org/wiki/General_Dynamics_F-16XL) (Historical baseline)
+* [LTV A-7F Corsair Strikefighter](https://github.com/BJSmithIEEE/AltHist/blob/main/aircraft/LTV_A-7F_Corsair_Strikefighter.md)
+  * [LTV YA-7F](https://en.wikipedia.org/wiki/LTV_YA-7F) (Historical baseline)
+* [Arms Export Control Act of 1976](https://en.wikipedia.org/wiki/Arms_Export_Control_Act)
+* [Foreign Military Sales](https://en.wikipedia.org/wiki/Foreign_Military_Sales)
+* [Great Engine War](https://en.wikipedia.org/wiki/Great_Engine_War)
+
+## References
+1. Comptroller General of the United States. (1976). *Subsidized Competition in Foreign Military Sales of Tactical Aircraft* (GAO Report B-169832). Washington, D.C.: U.S. Government Printing Office.
+2. Department of Defense. (1976). *DSAA Directive 5105.38-M (Supplement 4): Policies and Procedures for the Stratification and Fiscal Validation of Tactical Combat Aircraft in Foreign Military Sales*. Office of the Assistant Secretary of Defense (International Security Affairs).
+3. United States Congress. (1976). *The Arms Export Control Act of 1976* (Public Law 94-329, 90 Stat. 729, codified at 22 U.S.C. § 2751 et seq.).
+4. Defense Security Assistance Agency. (1982). *Security Assistance Management Manual (SAMM)*, DoD 5105.38-M, Section 6(c) Life-Cycle Cost Validation Criteria.
+5. Staats, Elmer B. (1981). "Oversight of Defense Weapon Systems Recoupment and FMS Pricing." *Hearings before the Senate Committee on Armed Services*, 97th Cong., 1st Sess.
+6. Aronstein, David C., and Piccirillo, Albert C. (1996). *The Lightweight Fighter Program: A Successful Approach to Acquisition*. Reston, VA: American Institute of Aeronautics and Astronautics.
+7. Jenkins, Dennis R. (2000). *F/A-18 Hornet: A Navy Success Story*. New York: McGraw-Hill.
+8. Defense Security Cooperation Agency. (1996). *Administrative Notice: Rescission of Supplement 4 to DoD 5105.38-M and Harmonization of International Tactical Aircraft Programs* (DSCA Policy Memo 96-14).
 
 ## Historical reality versus alternate history
 
 In real-world history, the Department of Defense aggressively prioritized foreign sales of the [General Dynamics F-16 Fighting Falcon](https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon) to lower unit acquisition costs for the United States Air Force. Despite extensive corporate investment by [Northrop Corporation](https://en.wikipedia.org/wiki/Northrop_Corporation) in the commercially developed F-5G (later designated the [F-20 Tigershark](https://en.wikipedia.org/wiki/Northrop_F-20_Tigershark)), the Department of Defense refused to procure the aircraft for domestic service. Without an active U.S. military inventory designation or dedicated logistics clearinghouses, foreign air forces deemed the F-20 too risky to adopt, leading to the program's cancellation in late 1986 after only three prototypes were constructed.
 
-The regulatory intervention represented by our fictional **DSAA Directive 5105.38-M (Supplement 4)** in this alternative history serves as a pivotal divergence point in late-20th-century military aviation history. In actual history, the Department of Defense never codified an administrative barrier against subsidizing frontline tactical exports, nor did it establish a statutory Two-Tier stratification with mandatory domestic aggressor buys. Analyzing the historical reality against the counterfactual framework illustrates how regulatory and administrative choices dictated the shape of modern aerospace development. But any existence in history of such a policy would still require Northrop, in a very tight window, to recognize multiple risks all converging on its future. 
+The regulatory intervention represented by our fictional **DSAA Directive 5105.38-M (Supplement 4)** in this alternative history serves as a pivotal divergence point in late-20th-century military aviation history. In actual history, the Department of Defense never codified an administrative barrier against subsidizing frontline tactical exports, nor did it establish a statutory Two-Tier stratification with mandatory domestic aggressor buys. Analyzing the historical reality against the counterfactual framework illustrates how regulatory and administrative choices dictated the shape of modern aerospace development.
+
+But any existence in history of such a policy would still require Northrop, in a very tight window, to recognize multiple risks all converging on its future. 
 
 ### Northrop's strategic window: Preemption vs. historical reality
 
 In retrospect, the regulatory success of Directive 5105.38-M hinged on an extraordinarily narrow counterfactual window. In historical reality, the combination of aggressive Air Force institutional backing for the F-16 and the Carter administration's sweeping restrictions on conventional arms transfers formed a devastating one-two punch that extinguished both Northrop’s F-5G/F-20 Tigershark and the land-based F-18L. Examining what corporate leadership in Hawthorne would have needed to execute between 1975 and 1976—contrasted with what actually transpired between 1979 and 1986—illustrates how rapidly the window of opportunity closed.
 
-#### Strategic prerequisites for preemption (1975–1976)
+**Strategic prerequisites for preemption (1975–1976)**
 
 For Northrop to have successfully preempted the Air Force's export monopoly and driven the codification of the Two-Tier directive, corporate leadership would have had to recognize, align, and execute five intricate strategic maneuvers in under eighteen months—an almost implausible feat of institutional foresight in aerospace history:
 
@@ -285,7 +322,7 @@ For Northrop to have successfully preempted the Air Force's export monopoly and 
 
 Had Northrop misjudged even one of these strategic junctures, the political and economic momentum behind the F-16 would have remained unchecked, inevitably reverting history to the baseline outcome.
 
-#### Historical trajectory and eventual cancellation (1979–1986)
+**Historical trajectory and eventual cancellation (1979–1986)**
 
 In historical reality, Northrop did not recognize these prerequisites in time, with the require inertia in-motion over the next few years. No entity would have likely ever done so, or only years later, just like Northrop. Hawthorne remained committed to the land-based F-18L while delaying a full-scale commitment to the single engine P-630 (F-5G) until the end of the decade. By the time Northrop attempted to correct course, the aerospace and political landscape had hardened permanently in favor of General Dynamics and the F-16:
 
@@ -303,7 +340,7 @@ It would not be a stretch to state the unrestricted US taxpayer subsidy of the F
 
 Under the alternate framework created by Directive 5105.38-M, the codification of mandatory R&D cost-recoupment surcharges and the domestic aggressor validation clause dismantled the Air Force's informal export monopoly. This policy shift fostered an economically sustainable multi-contractor tactical aviation market through the 1980s and early 1990s. These tables explore the changes, even benefits, of this alternate history policy change, as well as some of the realities that would have changed little.
 
-#### Domestic policy, procurement, and industrial base
+**Table 1: Domestic policy, procurement, and industrial base**
 
 | Area / Program | Historical Reality (Actual World) | Alternate History (DSAA 5105.38-M Framework) |
 | :--- | :--- | :--- |
@@ -317,7 +354,7 @@ Under the alternate framework created by Directive 5105.38-M, the codification o
 | **Aero-Engine Industrial Competition** | P&W held a near-monopoly on fighter engines until the mid-1980s Alternate Fighter Engine (AFE) competition. | High-volume F-19 production expanded GE F404 volume early, accelerating GE's market ascent and the Great Engine War. |
 | **1990s Defense Consolidation** | Waves of mergers catalyzed by the "Last Supper"; Northrop was left financially battered by the F-20 write-off before merging with Grumman. | **Consolidation still occurred by 1997** due to the post-Cold War drawdown; however, Northrop entered the Grumman merger in a position of robust cash reserves and manufacturing strength. |
 
-#### Foreign fleet adoption, maintenance, and operational outcomes
+**Table 2: Foreign fleet adoption, maintenance, and operational outcomes**
 
 | Area / Country | Historical Reality (Actual World) | Alternate History (DSAA 5105.38-M Framework) |
 | :--- | :--- | :--- |
@@ -329,40 +366,6 @@ Under the alternate framework created by Directive 5105.38-M, the codification o
 | **Greece and Turkey (Aegean Balance)** | Greece acquired F-16s and Mirage 2000s; Turkey built massive TAI F-16 co-production lines, creating an expensive regional arms race. | Turkey fielded a High-Low mix (F-19 for Aegean QRA alert, F-16E for deep strike); Greece modernized its A-7s to the **A-7F Strikefighter** and bought F-19s, severely curbing early Mirage 2000 buys. |
 | **European Competitor Squeeze** | Dassault dominated mid-tier markets with the Mirage F1 and sold over 600 Mirage 2000s across the Middle East, Asia, and Europe. | French exports heavily compressed; Mirage F1 undercut by the F-19, while the Mirage 2000 was squeezed between the F-19, A-7F, and F-16E. |
 
-### Chronological milestones of the alternate timeline
 
-The development, enforcement, and eventual sunset of the regulatory framework followed a distinct 20-year legislative and operational arc:
 
-| Date | Milestone / Event | Primary Stakeholders | Strategic Impact |
-| :--- | :--- | :--- | :--- |
-| **May 1976** | GAO Investigation Ordered | Senate Armed Services Committee, GAO | Initiated formal audit into DSAA F-16 fee waiver irregularities under AECA Section 21(e). |
-| **August 1976** | Release of GAO Report B-169832 | Comptroller General Elmer B. Staats | Confirmed illegal R&D fee absorption and economic fragility of foreign F-16 purchasers. |
-| **September 1976** | The Clements Compromise | Deputy SecDef William P. Clements Jr. | Closed-door mediation balancing Air Force autonomy, contractor equity, and congressional mandates. |
-| **October 18, 1976** | Promulgation of Directive 5105.38-M | Department of Defense, DSAA | Formally enacted Two-Tier FMS regulations and the domestic Aggressor Clause into the SAMM. |
-| **February 14, 1977** | F-19A/B MDS Designation Assigned | Armed Forces Designation Committee | Replaced "F-5G" designation; USAF contracted for 72 airframes supported by Navy F404 depots. |
-| **May 1977** | Carter PD-13 Conventional Arms Policy | National Security Council, State Dept. | F-19 protected from export bans due to active USAF inventory status; Tier-2 became Carter's preferred export class. |
-| **February 1978** | ROKAF Co-Production Signed | Republic of Korea, Korean Air Lines | Established KAL *Jegong-II* assembly line at Pusan, anchoring Pacific F-19 production. |
-| **February 1984** | USAF Enhanced Tactical Fighter Award | Tactical Air Command, McDonnell Douglas | USAF selected F-15E; General Dynamics pivoted the cranked-arrow wing into the export F-16E Freedom Falcon. |
-| **November 1996** | Administrative Rescission | DSCA, Department of Defense | SAMM Revision 96-1 formally rescinded Directive 5105.38-M, clearing the path for the Joint Strike Fighter program. |
-
-### See also
-* [Northrop F-19 Tigershark](https://github.com/BJSmithIEEE/AltHist/blob/main/aircraft/Northrop_F-19_Tigershark.md)
-  * [Northrop F-20 Tigershark](https://en.wikipedia.org/wiki/Northrop_F-20_Tigershark) (Historical baseline)
-* [General Dynamics F-16E Freedom Falcon](https://github.com/BJSmithIEEE/AltHist/blob/main/aircraft/General_Dynamics_F-16E_Freedom_Falcon.md)
-  * [General Dynamics F-16XL](https://en.wikipedia.org/wiki/General_Dynamics_F-16XL) (Historical baseline)
-* [LTV A-7F Corsair Strikefighter](https://github.com/BJSmithIEEE/AltHist/blob/main/aircraft/LTV_A-7F_Corsair_Strikefighter.md)
-  * [LTV YA-7F](https://en.wikipedia.org/wiki/LTV_YA-7F) (Historical baseline)
-* [Arms Export Control Act of 1976](https://en.wikipedia.org/wiki/Arms_Export_Control_Act)
-* [Foreign Military Sales](https://en.wikipedia.org/wiki/Foreign_Military_Sales)
-* [Great Engine War](https://en.wikipedia.org/wiki/Great_Engine_War)
-
-### References
-1. Comptroller General of the United States. (1976). *Subsidized Competition in Foreign Military Sales of Tactical Aircraft* (GAO Report B-169832). Washington, D.C.: U.S. Government Printing Office.
-2. Department of Defense. (1976). *DSAA Directive 5105.38-M (Supplement 4): Policies and Procedures for the Stratification and Fiscal Validation of Tactical Combat Aircraft in Foreign Military Sales*. Office of the Assistant Secretary of Defense (International Security Affairs).
-3. United States Congress. (1976). *The Arms Export Control Act of 1976* (Public Law 94-329, 90 Stat. 729, codified at 22 U.S.C. § 2751 et seq.).
-4. Defense Security Assistance Agency. (1982). *Security Assistance Management Manual (SAMM)*, DoD 5105.38-M, Section 6(c) Life-Cycle Cost Validation Criteria.
-5. Staats, Elmer B. (1981). "Oversight of Defense Weapon Systems Recoupment and FMS Pricing." *Hearings before the Senate Committee on Armed Services*, 97th Cong., 1st Sess.
-6. Aronstein, David C., and Piccirillo, Albert C. (1996). *The Lightweight Fighter Program: A Successful Approach to Acquisition*. Reston, VA: American Institute of Aeronautics and Astronautics.
-7. Jenkins, Dennis R. (2000). *F/A-18 Hornet: A Navy Success Story*. New York: McGraw-Hill.
-8. Defense Security Cooperation Agency. (1996). *Administrative Notice: Rescission of Supplement 4 to DoD 5105.38-M and Harmonization of International Tactical Aircraft Programs* (DSCA Policy Memo 96-14).
 
