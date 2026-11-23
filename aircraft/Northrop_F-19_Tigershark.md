@@ -89,6 +89,8 @@ Satisfied with the aeromedical modifications, the Air Force certified the flight
 
 Under the statutory mandates of Directive 5105.38-M, international combat aircraft exports were strictly divided into **Tier-1** (high-performance deep strike) and **Tier-2** (austere point defense), while mandatory non-recurring R&D recoupment fees and 20-year lifecycle affordability audits ended the era of subsidized fighter dumping. By anchoring the F-19 to the U.S. Navy's high-volume F404 depot clearinghouse and commercial F-5 tooling, Northrop positioned the Tigershark as the dominant low-maintenance, high-readiness solution for mid-tier allied budgets.
 
+## F-19 alternatives in the 1980s
+
 The table below contrasts the F-19 with contemporary Western fighter alternatives available across international defense sales during the 1980s:
 
 | Aircraft | Export Tier Classification | Unit Flyaway Cost *(1982 USD)* | Maintenance Burden *(MMH/FH)* | 20-Year Lifecycle Affordability & Operational Niche |
@@ -363,8 +365,10 @@ Mid-life upgrade (MLU) program executed by [Korea Aerospace Industries](https://
 ## See also
 
 **Related development**
-* [Northrop F-5](https://en.wikipedia.org/wiki/Northrop_F-5) Freedom Fighter / Tiger II
+* [Northrop F-19 Tigershark](https://github.com/BJSmithIEEE/AltHist/blob/main/aircraft/Northrop_F-19_Tigershark.md)
   * [Northrop F-20 Tigershark](https://en.wikipedia.org/wiki/Northrop_F-20_Tigershark) (Historical baseline)
+  * [Northrop F-5](https://en.wikipedia.org/wiki/Northrop_F-5)
+    * [Northrop F-5E and F-5F Tiger II](https://en.wikipedia.org/wiki/Northrop_F-5#F-5E_and_F-5F_Tiger_II)e)
 * [Northrop YF-17](https://en.wikipedia.org/wiki/Northrop_YF-17) 'Cobra'
 * [AIDC F-CK-1 Ching-kuo](https://en.wikipedia.org/wiki/AIDC_F-CK-1_Ching-kuo)
 
@@ -374,7 +378,9 @@ Mid-life upgrade (MLU) program executed by [Korea Aerospace Industries](https://
 * [General Dynamics F-16E Freedom Falcon](https://github.com/BJSmithIEEE/AltHist/blob/main/aircraft/General_Dynamics_F-16E_Freedom_Falcon.md)
   * [General Dynamics F-16XL](https://en.wikipedia.org/wiki/General_Dynamics_F-16XL) (Historical baseline)
 * [LTV A-7F Corsair Strikefighter](https://github.com/BJSmithIEEE/AltHist/blob/main/aircraft/LTV_A-7F_Corsair_Strikefighter.md)
-  * [Vought YA-7F](https://en.wikipedia.org/wiki/LTV_YA-7F) (Historical baseline)
+  * [LTV YA-7F](https://en.wikipedia.org/wiki/LTV_YA-7F) (Historical baseline)
+  * [LTV A-7 Corsair II](https://en.wikipedia.org/wiki/LTV_A-7_Corsair_II)
+  * [Vought F-8 Crusader](https://en.wikipedia.org/wiki/Vought_F-8_Crusader)
 * [Mikoyan-Gurevich MiG-23](https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-23)
 * [Saab 37 Viggen](https://en.wikipedia.org/wiki/Saab_37_Viggen)
 
