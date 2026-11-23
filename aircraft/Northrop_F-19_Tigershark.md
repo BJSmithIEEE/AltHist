@@ -167,7 +167,7 @@ Initial single-seat production export baseline (288 built between 1978 and 1984)
 Two-seat operational conversion trainer counterpart to the F-19A Block 1 (42 built). The fuselage was stretched by 3 feet 2 inches (0.97 m) to accommodate a stepped tandem dual cockpit with duplicate controls and instrumentation, reducing internal fuel capacity by approximately 10 percent. Retained the single F404-GE-100 engine and full weapons capability, with twin 20 mm cannons preserved.
 
 ### F-19C (Block 2)
-Definitive modernized single-seat multirole production standard introduced in 1984 (118 built). Upgraded with the 17,700 lbf (78.7 kN) General Electric F404-GE-402 Enhanced Performance Engine (EPE), boosting top speed to Mach 2.1 and significantly shortening transonic acceleration and scramble times. 
+Definitive modernized single-seat multirole production standard introduced in 1984, produced 1985-1992 (196 built). Upgraded with the 17,700 lbf (78.7 kN) General Electric F404-GE-402 Enhanced Performance Engine (EPE), boosting top speed to Mach 2.1 and significantly shortening transonic acceleration and scramble times. 
 * **Avionics & Cockpit:** Replaced analog gauges with a digital glass cockpit centered on a [MIL-STD-1553B](https://en.wikipedia.org/wiki/MIL-STD-1553) multiplex databus, dual 5-inch monochrome CRT Multi-Function Displays (MFDs), and full HOTAS controls.
 * **Sensor Suite:** Upgraded to the fully digital AN/APG-67(V)2 pulse-Doppler radar, adding digital track-while-scan (TWS), look-down/shoot-down performance in dense clutter, sea-surface search, and software datalink provisions for the [AIM-120 AMRAAM](https://en.wikipedia.org/wiki/AIM-120_AMRAAM).
 
