@@ -262,20 +262,78 @@ Military historians and defense analysts evaluate the two-decade tenure of Direc
 * **Allied Fleet Readiness:** Independent audits conducted in the early 2000s confirmed that allied air forces operating under the directive's 20-year lifecycle mandate maintained significantly higher mission-capable rates (averaging over 78%) compared to developing nations that acquired complex, uncertified front-line fighters outside the U.S. FMS framework.
 * **The Cost of Government Market Structuring:** Conversely, critics argue that the directive artificially fragmented U.S. industrial capacity, prolonged the service lives of aging platforms like the A-7 through expensive conversions, and temporarily delayed the natural post-Cold War market transition toward multi-role fifth-generation interoperability.
 
-## Chronological milestones
-The development, enforcement, and eventual sunset of the regulatory framework followed a distinct 20-year legislative and operational arc:
 
-| Date | Milestone / Event | Primary Stakeholders | Strategic Impact |
+## Chronological milestones
+
+The structural reorganization enforced by Directive 5105.38-M unfolded across three distinct yet mutually reinforcing domains. To capture the full scope of this transformation, the chronology is structured into three dedicated sequences:
+
+1. **Regulatory, legislative, and institutional milestones:** The statutory enactments, GAO investigations, inter-agency policy battles, and eventual administrative rescission of the Two-Tier export regime.
+2. **Corporate strategy, industrial partnerships, and procurement diplomacy:** The backroom industrial pacts, corporate project pivots, bilateral aerospace co-production agreements, and pivotal foreign military sales contracts that reshaped the international defense market.
+3. **Aircraft development, flight testing, and operational service milestones:** The physical evolution of the airframes themselves, including aerodynamic advances, engine qualification leaps, prototype first flights, operational adversary inductions, combat debuts, and fleet line closures.
+
+
+### Regulatory, legislative, and institutional milestones
+
+This sequence traces the bureaucratic, legal, and inter-service actions that created, enforced, and eventually sunset the Two-Tier FMS regime:
+
+| Date | Milestone / Event | Primary Stakeholders | Regulatory & Policy Impact |
 | :--- | :--- | :--- | :--- |
-| **May 1976** | GAO Investigation Ordered | Senate Armed Services Committee, GAO | Initiated formal audit into DSAA F-16 fee waiver irregularities under AECA Section 21(e). |
-| **August 1976** | Release of GAO Report B-169832 | Comptroller General Elmer B. Staats | Confirmed illegal R&D fee absorption and economic fragility of foreign F-16 purchasers. |
-| **September 1976** | The Clements Compromise | Deputy SecDef William P. Clements Jr. | Closed-door mediation balancing Air Force autonomy, contractor equity, and congressional mandates. |
-| **October 18, 1976** | Promulgation of Directive 5105.38-M | Department of Defense, DSAA | Formally enacted Two-Tier FMS regulations and the domestic Aggressor Clause into the SAMM. |
-| **February 14, 1977** | F-19A/B MDS Designation Assigned | Armed Forces Designation Committee | Replaced "F-5G" designation; USAF contracted for 72 airframes supported by Navy F404 depots. |
-| **May 1977** | Carter PD-13 Conventional Arms Policy | National Security Council, State Dept. | F-19 protected from export bans due to active USAF inventory status; Tier-2 became Carter's preferred export class. |
-| **February 1978** | ROKAF Co-Production Signed | Republic of Korea, Korean Air Lines | Established KAL *Jegong-II* assembly line at Pusan, anchoring Pacific F-19 production. |
-| **February 1984** | USAF Enhanced Tactical Fighter Award | Tactical Air Command, McDonnell Douglas | USAF selected F-15E; General Dynamics pivoted the cranked-arrow wing into the export F-16E Freedom Falcon. |
-| **November 1996** | Administrative Rescission | DSCA, Department of Defense | SAMM Revision 96-1 formally rescinded Directive 5105.38-M, clearing the path for the Joint Strike Fighter program. |
+| **May 1976** | **GAO Investigation Ordered** | Senate Armed Services Committee, GAO | Comptroller General initiated an expedited, classified audit into USAF F-16 fee-waiver irregularities and predatory pricing under AECA §21(e). |
+| **June 30, 1976** | **Arms Export Control Act Passed** | U.S. Congress, President Gerald Ford | Codified Pub. L. 94–329, establishing statutory congressional oversight over FMS credit allocations and restricting executive fee waivers. |
+| **August 1976** | **Release of GAO Report B-169832** | Comptroller General Elmer B. Staats | Formally substantiated systematic non-recurring R&D fee absorption ($320M+) and demonstrated the long-term fiscal fragility of foreign F-16 buyers. |
+| **September 1976** | **The Clements Compromise** | Deputy SecDef William P. Clements Jr. | Brokered a binding Pentagon compromise: shielded GD from retroactive penalties, barred future R&D fee waivers, and established protected export tiers. |
+| **October 18, 1976** | **Promulgation of Directive 5105.38-M** | Department of Defense, DSAA | Officially enacted Supplement 4 to the SAMM: instituted mandatory R&D surcharges, 20-year lifecycle audits, and the domestic Aggressor Clause. |
+| **January 1, 1977** | **Effective Date of Directive** | DSAA, State Dept., U.S. Services | Full statutory enforcement commenced across all pending and future Letters of Offer and Acceptance (LOAs). |
+| **February 14, 1977** | **F-19 MDS Designation Assigned** | Armed Forces Designation Committee | Formally cataloged the F-19A/B into the active military ledger, discarding the "F-5G" label and unlocking the worldwide FMS supply clearinghouse. |
+| **May 1977** | **Carter PD-13 Arms Transfer Policy** | National Security Council, State Dept. | President Carter restricted frontline arms exports; because the F-19 had active USAF/USN aggressor status, it was exempt from the ban on "pure export" fighters. |
+| **November 1983** | **U.S.–Japan Defense Technology Protocol** | U.S. DoD, Japan Defense Agency (JDA) | Established bilateral aerostructures framework permitting Japanese heavy industry (MHI) to fabricate composite military assemblies for U.S. export programs. |
+| **May 1984** | **USAF F-16E/F MDS Standardization** | Tactical Air Command, General Dynamics | USAF standardized F-16E (single-seat) and F-16F (two-seat) designations, establishing the 4-aircraft Edwards AFB evaluation flight funded via FMS recoupment fees. |
+| **November 1996** | **Administrative Rescission (SAMM Rev 96-1)** | DSCA, Department of Defense | Formally superseded Directive 5105.38-M, rescinding rigid tier classifications to harmonize international financing for the Joint Strike Fighter (JSF) consortium. |
+
+### Corporate strategy, industrial partnerships, and procurement diplomacy
+
+This sequence outlines the corporate maneuvers, bilateral industrial teaming pacts, foreign licensing protocols, and export procurements catalyzed by the Two-Tier framework:
+
+| Date | Strategic Milestone / Event | Involved Stakeholders | Industrial & Geopolitical Significance |
+| :--- | :--- | :--- | :--- |
+| **November 1975** | **Project P-630 Initiated** | Northrop Corporation | Hawthorne launched the low-wing, single-F404 F-5 evolution, formally terminating the P-610 to preserve naval F/A-18 relations. |
+| **February 1976** | **The "Hawthorne–St. Louis Truce"** | Northrop, McDonnell Douglas | Private market division: Northrop ceded Tier-1 maritime buyers (Canada, Australia, Spain) to the F/A-18; McDonnell Douglas backed the F-19 as a Navy aggressor. |
+| **February 1978** | **ROKAF Co-Production Agreement** | South Korea (ROKAF), Korean Air Lines | Seoul established the licensed *Jegong-II* assembly line at Pusan for 120 F-19s, anchoring Northrop’s long-term Pacific industrial base. |
+| **November 1978** | **Post-Camp David Egyptian Buy** | Egyptian Air Force, State Dept. | Washington approved 64 F-19A/Bs under FMS to replace Soviet MiG-21s, maintaining regional parity without eroding Israel’s qualitative edge. |
+| **Late 1981 – 1982** | **Navy F-19N Adversary Procurement** | U.S. Navy (Topgun, VF-43, VFC-13) | USN ordered 36 new-build F-19Ns, establishing the Navy F404 depot bridge and providing realistic 4th-generation threat simulation. |
+| **Late 1982** | **Project 401X Initiated** | General Dynamics (Fort Worth) | Antedating the ETF fly-off award, GD initiated an export cranked-arrow redesign to survive an anticipated loss to the F-15E. |
+| **November 1983** | **Tripartite Aerospace Protocol** | General Dynamics, MHI, IAI/Elbit | Industrial division: Japanese MHI took composite cranked-arrow wing manufacturing; Israel IAI/Elbit took F-16F two-seat cockpit integration, dorsal spines, and LEVF strakes. |
+| **February 1984** | **USAF Enhanced Tactical Fighter Award** | USAF, McDonnell Douglas, GD | USAF selected the twin-engine F-15E; GD immediately pivoted the cranked-arrow wing into the pre-packaged Project 401X export consortium. |
+| **FY1984 – FY1985** | **IAI Lavi Defunded / Tooling in Lod** | Israeli MOD, IAI/Elbit, State Dept. | Israel halted Lavi prototype funding, redirecting capital into F-16F tooling in Lod; prevented engineer exodus to China and terminated the Chengdu J-10. |
+| **May 1984** | **Launch Partner MOUs (Israel & Japan)** | Heyl Ha'Avir, Japan JDA, USAF | Israel signed an MOU for 72 two-seat F-16Fs; Japan committed to 110 F-16EJs for FS-X, satisfying USAF launch-partner prerequisites. |
+| **Mid-to-late 1985** | **Formal Israeli & Japanese Contracts** | Heyl Ha'Avir, JASDF, General Dynamics | Formal contract signing: 72 F-16Fs for Israel with domestic dorsal spines in July 1985; 110 F-16EJs for Japan to replace the Mitsubishi F-1 without refueling bans in November 1985. |
+| **1986 – 1987** | **Greece & Portugal A-7F Contracts** | Hellenic Air Force, Portuguese Air Force | Barred from subsidized F-16As, Greece (48 A-7FH) and Portugal (20 A-7FP) funded supersonic depot conversions at ~$6.8M per airframe. |
+| **Early 1987** | **Saudi *Peace Sentinel* Agreement** | Royal Saudi Air Force, State Dept. | Bypassing Congressional vetoes on the F-15E, Saudi Arabia signed for 72 F-16E/Fs (48 E, 24 F) as its primary unrefueled deep-strike interdictor. |
+| **Mid-1987** | **Turkish *Peace Onyx II* (TAI Assembly)** | Turkish Air Force, TAI, General Dynamics | Turkey finalized 40 F-16E/Fs co-assembled at TAI in Ankara, deliberately passing on the Tier-2 F-19 acquired by Greece to secure strike reach. |
+| **Late 1987** | **Singapore *Peace Carvin* Selection** | Republic of Singapore Air Force | Singapore procured 36 F-16E/Fs as an "all-in-one" fighter, accelerating the reassignment of A-4SU Super Skyhawks to advanced training and secondary strike. |
+| **1994** | **USN F-16N Inter-Service Transfer** | U.S. Navy, USAF | Premature grounding of fatigue-cracked Navy F-16Ns prompted transfer of 18 USAF Block 2 F-19s to Topgun/Fallon, sharing Navy F404 depots. |
+
+### Aircraft development, flight testing, and operational service milestones
+
+This sequence records prototype construction, aerodynamic advancements, maiden flights, operational squadron activations, combat debuts, and production conclusions:
+
+| Date | Development / Operational Milestone | Airframe / Organization | Technical, Aerodynamic & Operational Significance |
+| :--- | :--- | :--- | :--- |
+| **February 1977** | **YF-19A FSD Rollout** | Northrop, Edwards AFB | Three production-representative Full-Scale Development airframes rolled out on production tooling using diverted F/A-18 F404 test engines. |
+| **November 14, 1979** | **First Flight of YF-19A** | Northrop (*s/n 77-0191*) | Hank Chouteau piloted the maiden flight at Edwards AFB, achieving Mach 2.04 dash and confirming instantaneous pitch rates exceeding 20°/sec. |
+| **Late 1980 – 1981** | **USAF Aggressor Induction & G-LOC Fix** | USAF 64th Aggressor Squadron | Nellis AFB inducted 36 F-19As; early non-fatal G-LOC incident led to the 19° seat tilt, fast-response anti-G valves, and FBW auto-recovery. |
+| **Early–Mid 1983** | **NASA LEVF Wind Tunnel Validation** | NASA Langley, General Dynamics | Validated hinged Leading-Edge Vortex Flaps on the cranked-arrow wing, confirming low-speed vortex lift and a 20% reduction in takeoff ground roll. |
+| **March 14, 1985** | **First Flight of Production F-16E** | General Dynamics, MHI | Maiden flight of production F-16E at Fort Worth with MHI-built composite wings and LEVFs, powered by the 29,500 lbf GE F110-GE-129. |
+| **Mid-1985** | **F-19C Block 2 / F404-GE-402 Debut** | Northrop, General Electric | Matured digital glass cockpit, AN/APG-67(V)2 radar, and 17,700 lbf -402 EPE engine (accelerated 5 years ahead of the historical Swiss F/A-18 program). |
+| **September 19, 1985** | **First Flight of YA-7F Strikefighter** | LTV Aerospace (Dallas, Texas) | First flight of supersonic Corsair II conversion (*Project V-550*), demonstrating Mach 1.19 dash and Harpoon/Exocet maritime strike. |
+| **Mid-1986** | **Early IAF Delivery & Edwards Induction** | Israeli Air Force (Tel Nof), 6510th Test Wing | IAF accepted two pre-series F-16Fs ahead of formal IOC; USAF inducted 4 evaluation aircraft at Edwards AFB for multinational weapons certification. |
+| **Late 1986** | **Clandestine Israeli Sortie & *NYT* Leak** | Israeli Air Force, *The New York Times* | Pre-series F-16F flew an unacknowledged deep precision strike; leaked to the press, proving unrefueled combat radius and igniting global export interest. |
+| **June 1987** | **Formal IAF Operational Introduction** | Heyl Ha'Avir (Ramat David / Tel Nof) | Official standing-up of the first frontline operational F-16F "Sufa-XL" squadrons in Israel. |
+| **August 2, 1990** | **Kuwaiti F-19A Combat Scrambles** | Kuwait Air Force (Ali Al Salem) | Kuwaiti Tigersharks flew defensive ground strafing runs against invading Iraqi armored columns, claiming three Iraqi Mi-8 and Mi-24 helicopters. |
+| **January–Feb 1991** | **Operation Desert Storm Combat Sorties** | Coalition Air Forces (RSAF, Free Kuwait) | RSAF F-16E/Fs flew deep precision interdiction against Iraqi command bunkers, while Free Kuwait F-19As flew defensive counter-air patrols. |
+| **December 1992** | **F-19 Production Line Closure** | Northrop (Hawthorne, California) | F-19 production concluded after 544 airframes as Cold War drawdowns and surplus F-16A EDA dumping eroded the new-build Tier-2 export market. |
+| **1996** | **F-16E/F Production Line Closure** | Lockheed Martin (Fort Worth), MHI | Production concluded after 382 airframes as post–Cold War defense budgets contracted and Lockheed prioritized the emerging Joint Strike Fighter. |
+
 
 ## See also
 * [Northrop F-19 Tigershark](https://github.com/BJSmithIEEE/AltHist/blob/main/aircraft/Northrop_F-19_Tigershark.md)
