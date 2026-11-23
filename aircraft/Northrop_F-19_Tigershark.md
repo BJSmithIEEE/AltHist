@@ -368,7 +368,7 @@ Mid-life upgrade (MLU) program executed by [Korea Aerospace Industries](https://
 * [Northrop F-19 Tigershark](https://github.com/BJSmithIEEE/AltHist/blob/main/aircraft/Northrop_F-19_Tigershark.md)
   * [Northrop F-20 Tigershark](https://en.wikipedia.org/wiki/Northrop_F-20_Tigershark) (Historical baseline)
   * [Northrop F-5](https://en.wikipedia.org/wiki/Northrop_F-5)
-    * [Northrop F-5E and F-5F Tiger II](https://en.wikipedia.org/wiki/Northrop_F-5#F-5E_and_F-5F_Tiger_II)e)
+    * [Northrop F-5E and F-5F Tiger II](https://en.wikipedia.org/wiki/Northrop_F-5#F-5E_and_F-5F_Tiger_II)
 * [Northrop YF-17](https://en.wikipedia.org/wiki/Northrop_YF-17) 'Cobra'
 * [AIDC F-CK-1 Ching-kuo](https://en.wikipedia.org/wiki/AIDC_F-CK-1_Ching-kuo)
 
