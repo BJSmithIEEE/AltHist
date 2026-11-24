@@ -1,0 +1,7 @@
+# Standard backup and temporary files
+*~
+~*
+
+# GNU / Bash numbered backup files (e.g., file.~1~, file.~12~)
+*.~*~
+
