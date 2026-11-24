@@ -339,11 +339,11 @@ A total of 382 production aircraft (120 F-16E, 152 F-16F, and 110 F-16EJ) and si
 * **Hardpoints:** 29 mounting stations carrying up to 15,000 lb (6,804 kg) of ordnance:
   * **Wingtip Rails (Stations 1 & 29):** 2 × AIM-9L/M Sidewinder or AIM-132 ASRAAM
   * **Semi-Submerged Fuselage Stations (Stations 5, 6, 24, 25):** 4 × AIM-120 AMRAAM recessed flush along the underwing root fairings
-  * **Underwing Tandem Stations (Stations 7–23):** 16 stub-pylon ejector stations arranged in four chordwise tandem rows (two rows per wing), each station rated for 1,000 lb (454 kg); capable of carrying up to 16 × Mk 82 500 lb bombs, 6 × Mk 84 2,000 lb bombs, or cluster bomb dispensers without drag-inducing multi-ejector racks (MERs)
+  * **Underwing Tandem Stations (Stations 7–23):** 16 stub-pylon ejector stations arranged in four chordwise tandem rows (two rows per wing), each station rated for 1,000 lb (454 kg); capable of carrying up to 16 × Mk 82 (500 lb), 10 × Mk 83 (1000 lb) or 6 × Mk 84 (2,000 lb) bombs, or cluster bomb dispensers without drag-inducing multi-ejector racks (MERs)
   * **Heavy Inboard Wing Pylons (Stations 4 & 26):** 2 × heavy-duty wet-plumbed stations (rated for 4,500 lb / 2,041 kg each) for 600 US gal fuel tanks, AGM-84 Harpoon, Type 80 (ASM-1), Type 93 (ASM-2), or Rafael Popeye stand-off missiles
   * **Outboard Wing Pylons (Stations 2 & 28):** 2 × light stations for ECM pods or additional air-to-air missiles
   * **Fuselage Centerline (Station 15):** 1 × wet-plumbed station (rated for 3,000 lb / 1,361 kg) for 300 US gal fuel tank or heavy sensor pod
-  * **Chin Intake Pod Hardpoints:** 2 × specialized stations for AN/AAQ-13 navigation and AN/AAQ-14 targeting pods (LANTIRN)
+  * **Chin Intake Pod Hardpoints:** 2 × specialized stations for AN/AAQ-13 navigation and AN/AAQ-14 targeting pods (LANTIRN) — *some test units wired for AIM-7, AIM-9 or AIM-120 as well*
 * **Missiles:**
   * *Air-to-air:* AIM-9 Sidewinder, AIM-120 AMRAAM, AAM-3 (Japan)
   * *Air-to-surface:* AGM-65 Maverick, Rafael Popeye (Israel), AGM-84 Harpoon, Type 80 ASM-1 / Type 93 ASM-2 (Japan), Type 12 ASM-3 (F-16EJ Kai)
